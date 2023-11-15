@@ -67,7 +67,7 @@ Quando la transazione viene inclusa in un blocco valido e confermata sulla block
 Infine, con il comando:
 
 ```bash
-ots info NOME_FILE.ots
+ots info data_2023-11-05_17-04-22.txt.ots
 ```
 
 vengono mostrate ulteriori informazioni sul timestamp:
